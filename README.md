@@ -17,4 +17,4 @@ $ mkdir bld \
     make
 ```
 
-* Inspired from <https://github.com/1duo/nccl-examples>
+* Heavily derived from <https://github.com/1duo/nccl-examples>
